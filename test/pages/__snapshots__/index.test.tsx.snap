@@ -3,7 +3,7 @@
 exports[`Home page matches snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="container"
+    class="bg-gray-800 text-2xl text-gray-100"
   >
     <main>
       <h1
