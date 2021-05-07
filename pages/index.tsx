@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 export const Home = (): JSX.Element => (
-  <div className="container">
+  <div className="bg-gray-800 text-2xl text-gray-100">
     <Head>
       <title>Plants</title>
       <link rel="icon" href="/favicon.ico" />
